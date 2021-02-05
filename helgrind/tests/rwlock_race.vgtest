@@ -1,2 +1,0 @@
-prog: rwlock_race
-vgopts: --read-var-info=yes
